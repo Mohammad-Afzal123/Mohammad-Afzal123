@@ -63,17 +63,6 @@
 
 ## 📊 GitHub Performance Analysis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&show_icons=true&locale=en&theme=radical" alt="Mohammad-Afzal123" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Afzal123&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohammad-Afzal123" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Afzal123&theme=radical" alt="Mohammad-Afzal123" width="48%" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
