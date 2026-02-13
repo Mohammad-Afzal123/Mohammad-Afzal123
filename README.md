@@ -63,24 +63,20 @@
 
 ## 📊 GitHub Performance Analysis
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Afzal123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em" />
+<p align="center">
+  <a href="https://github.com/Mohammad-Afzal123">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammad-Afzal123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohammad-Afzal123&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Afzal123&theme=algolia&hide_border=false" alt="Mohammad-Afzal123's Streak" />
+</p>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Afzal123&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%" />
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Afzal123&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" width="90%" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Afzal123&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Mohammad-Afzal123's Trophies" />
+</p>
 
 ---
 
