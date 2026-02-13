@@ -63,20 +63,24 @@
 
 ## 📊 GitHub Performance Analysis
 
-<p align="center">
-  <a href="https://github.com/Mohammad-Afzal123">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammad-Afzal123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohammad-Afzal123&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Afzal123&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Afzal123&theme=algolia&hide_border=false" alt="Mohammad-Afzal123's Streak" />
-</p>
+<div align="center">
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=Mohammad-Afzal123&theme=radical&hide_border=false)
+  
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Afzal123&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Mohammad-Afzal123's Trophies" />
-</p>
+<div align="center">
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=Mohammad-Afzal123&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  
+</div>
 
 ---
 
