@@ -64,16 +64,12 @@
 ## 📊 GitHub Performance Analysis
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Afzal123&theme=dark&layout=compact&langs_count=6" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&show_icons=true&locale=en&theme=radical" alt="Mohammad-Afzal123" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Afzal123&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohammad-Afzal123" height="180" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Mohammad-Afzal123&theme=dark&hide_border=true" alt="GitHub Streak" width="500">
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Afzal123&theme=darkhub&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" width="600">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Afzal123&theme=radical" alt="Mohammad-Afzal123" width="48%" />
 </p>
 
 ---
