@@ -1,14 +1,13 @@
 <div align="center">
-  
+
 # ⚡ MOHAMMAD AFZAL KHAN
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXFpZ3ZidXN4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Badass Developer GIF" />
 
-  <h3>🚀 Building intelligent, scalable, and responsible AI systems</h3>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIyZGFjYjVkYmIxNGI0YmIyZjk0ZGJjYjYwZjk0ZGIzYmIyZjk0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" />
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Mohammad-Afzal123&label=SYSTEM%20ACCESSES&color=00ff00&style=for-the-badge" alt="Views" />
-  </p>
+### 🚀 Building intelligent, scalable, and responsible AI systems
+
+[![Views](https://komarev.com/ghpvc/?username=Mohammad-Afzal123&label=SYSTEM%20ACCESSES&color=00ff00&style=for-the-badge)](https://github.com/Mohammad-Afzal123)
+
 </div>
 
 ---
@@ -27,30 +26,30 @@
 ### 💻 Tech Stack
 **Languages & Core** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**AI / Machine Learning** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**AI / Machine Learning** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Web & Frameworks** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**Cloud & DevOps** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+**Web & Cloud** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 📊 GitHub Analysis
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Afzal123&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&show_icons=true&theme=radical&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Afzal123&layout=compact&theme=radical&hide_border=false" width="45%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Mohammad-Afzal123&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mohammad-Afzal123&theme=radical&hide_border=false" width="91%" />
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Afzal123&theme=radical&no-frame=true&margin-w=10" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Afzal123&theme=radical&no-frame=false&margin-w=4" />
+</p>
 
 ---
 
