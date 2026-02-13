@@ -5,14 +5,18 @@
 Building intelligent, scalable, and responsible AI systems that solve real-world problems with measurable impact.
 
 🧠 Core Domains
-<p align="center"> <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Science-2E86C1?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Full%20Stack%20Development-27AE60?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Competitive%20Programming-E74C3C?style=for-the-badge&logo=codeforces&logoColor=white"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Science-2E86C1?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Full%20Stack-27AE60?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Competitive%20Programming-E74C3C?style=for-the-badge&logo=codeforces&logoColor=white"/> </p>
 📜 Certifications & Learning
 
-✨ Introduction to Large Language Models
-✨ Responsible AI – Interpretability & Transparency
-✨ Prompt Design in Vertex AI
-✨ TensorFlow for AI, ML & DL
-✨ Smart Analytics & ML on Google Cloud
+Introduction to Large Language Models
+
+Responsible AI – Interpretability & Transparency
+
+Prompt Design in Vertex AI
+
+TensorFlow for AI, ML & DL
+
+Smart Analytics & ML on Google Cloud
 
 🏆 Hackathons & Achievements
 Event	Achievement
@@ -22,11 +26,12 @@ Event	Achievement
 💡 DATA QUEST ’24	AI/Data Problem Solving
 ⚡ Ctrl Alt Defeat	Innovation Challenge
 📊 Dataset Hackathon	Real-world Dataset Modeling
-🔥 GitHub Performance Hub (Unique Section)
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" /> </p> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" /> </p> <p align="center"> <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" /> </p>
+🔥 GitHub Performance Dashboard
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Afzal123&theme=radical&no-frame=true&row=1&column=6"/> </p> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img width="49%" src="https://streak-stats.demolab.com?user=Mohammad-Afzal123&theme=radical"/> </p> <p align="center"> <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Afzal123&theme=react-dark"/> </p> <p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Afzal123&layout=compact&theme=radical"/> </p>
 🌐 Connect With Me
-<p align="center"> <a href="mailto:afzal.khan.m.mak@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/mohammad-afzal-khan-90309428a"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://afzalweb.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
-
+<p align="center"> <a href="mailto:afzal.khan.m.mak@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/mohammad-afzal-khan-90309428a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://afzalweb.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.instagram.com/afzal.khan.m.mak/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.youtube.com/@MohammadAfzalkhan006"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
+📊 Visitor Counter
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohammad-Afzal123&label=Profile%20Views&color=blueviolet&style=for-the-badge"/> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100030014899130) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/afzal.khan.m.mak/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-afzal-khan-90309428a/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MohammadAfzalkhan006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afzal.khan.m.mak@gmail.com) 
@@ -43,11 +48,3 @@ Event	Achievement
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohammad-Afzal123&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mohammad-Afzal123&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
