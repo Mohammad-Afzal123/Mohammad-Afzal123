@@ -63,24 +63,26 @@
 
 ## 📊 GitHub Performance Analysis
 
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Afzal123&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Afzal123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Afzal123&theme=dark&layout=compact&langs_count=6" alt="Top Languages" height="165">
+</p>
 
-<div align="center">
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=Mohammad-Afzal123&theme=radical&hide_border=false)
-  
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Mohammad-Afzal123&theme=dark&hide_border=true" alt="GitHub Streak" width="500">
+</p>
 
-<div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=Mohammad-Afzal123&limit=5&theme=radical&combine_all_yearly_contributions=true)
-  
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Afzal123&theme=darkhub&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" width="600">
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Afzal123&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Contribution Graph" width="95%">
+</p>
 
 ---
 
