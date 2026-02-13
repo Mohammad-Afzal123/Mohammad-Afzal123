@@ -1,7 +1,31 @@
 <img width="1240" height="697" alt="image" src="https://github.com/user-attachments/assets/2e1b2d86-066b-4428-b4c0-930c70ae8727" />
 
-# 💫 About Me:
-👋  Mohammad Afzal Khan<br><br>Computer Science & Engineering (Data Science) undergraduate at Vellore Institute of Technology (VIT), Chennai<br><br>Based in Bengaluru, Karnataka, India, with experience collaborating across academic, hackathon, and professional environments.<br><br>🎯 Core Interests & Focus Areas<br><br>Artificial Intelligence and Machine Learning<br><br>Deep Learning and Neural Networks<br><br>Full-Stack Web Development<br><br>Competitive Programming and Algorithmic Problem Solving<br><br>Data Science and Applied Analytics<br><br>Responsible and Explainable AI<br><br>Scalable Software Systems and Product-Oriented Development<br><br>📜 Certifications & Professional Learning<br><br>Introduction to Large Language Models<br><br>Responsible AI for Developers: Interpretability & Transparency<br><br>Prompt Design in Vertex AI<br><br>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning<br><br>Smart Analytics, Machine Learning, and AI on Google Cloud<br><br>🏆 Achievements & Hackathons<br><br>DATA QUEST ’24 – Hackathon participant with hands-on AI/data problem-solving experience<br><br>Devshouse ’24 – Ranked 41st, competing among strong coding teams<br><br>SIH Internal Hackathon – Secured 14th position out of 120+ teams<br><br>Level Supermind Hackathon ’25 – Achieved 7th position out of 250+ teams<br><br>Ctrl Alt Defeat – Active participation in competitive innovation challenges<br><br>Dataset Hackathon – Experience working with real datasets under constraints<br><br>📫 Contact & Online Presence<br><br>Email: afzal.khan.m.mak@gmail.com<br><br>LinkedIn: www.linkedin.com/in/mohammad-afzal-khan-90309428a<br><br>Portfolio: afzalweb.vercel.app
+🚀 Vision
+
+Building intelligent, scalable, and responsible AI systems that solve real-world problems with measurable impact.
+
+🧠 Core Domains
+<p align="center"> <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Science-2E86C1?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Full%20Stack%20Development-27AE60?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Competitive%20Programming-E74C3C?style=for-the-badge&logo=codeforces&logoColor=white"/> </p>
+📜 Certifications & Learning
+
+✨ Introduction to Large Language Models
+✨ Responsible AI – Interpretability & Transparency
+✨ Prompt Design in Vertex AI
+✨ TensorFlow for AI, ML & DL
+✨ Smart Analytics & ML on Google Cloud
+
+🏆 Hackathons & Achievements
+Event	Achievement
+🥇 Level Supermind Hackathon ’25	7th out of 250+ teams
+🏅 SIH Internal Hackathon	14th out of 120+ teams
+🏅 Devshouse ’24	41st Position
+💡 DATA QUEST ’24	AI/Data Problem Solving
+⚡ Ctrl Alt Defeat	Innovation Challenge
+📊 Dataset Hackathon	Real-world Dataset Modeling
+🔥 GitHub Performance Hub (Unique Section)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" /> </p> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" /> </p> <p align="center"> <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="mailto:afzal.khan.m.mak@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/mohammad-afzal-khan-90309428a"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://afzalweb.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
 
 
 ## 🌐 Socials:
